@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataquality.reports:TdReport xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dataquality.reports="http://dataquality.reports" xmlns:relational="http://www.talend.org/cwm/resource/relational/2010" xmi:id="_5c95MF6aEfGIxbSF4Pb83Q" name="Reporte_Olist_Ejemplo" creationDate="2026-06-02T10:51:19.264-0500" logo="C:\Users\IDC\Downloads\fondo zoom 1.jpg (1).jpeg" defaultContext="Default">
+  <clientDependency href="../../Analyses/OLIST_CUSTOMERS_QD_0.1.ana#_4ow_oF6bEfGIxbSF4Pb83Q"/>
+  <clientDependency href="../../Analyses/OLIST_GEOLACATION_QD_0.1.ana#_4o47cF6bEfGIxbSF4Pb83Q"/>
+  <clientDependency href="../../Analyses/OLIST_ORDERS_QA_0.1.ana#_4o-bAF6bEfGIxbSF4Pb83Q"/>
+  <clientDependency href="../../Analyses/OLIST_ORDER_ITEMS_QD_0.1.ana#_4pFIsF6bEfGIxbSF4Pb83Q"/>
+  <clientDependency href="../../Analyses/OLIST_ORDER_PYMENTS_QD_0.1.ana#_4pKoQF6bEfGIxbSF4Pb83Q"/>
+  <clientDependency href="../../Analyses/OLIST_ORDER_REVIEWS_QD_0.1.ana#_4pQH0F6bEfGIxbSF4Pb83Q"/>
+  <clientDependency href="../../Analyses/OLIST_PRODUCTS_QD_0.1.ana#_4pVAUF6bEfGIxbSF4Pb83Q"/>
+  <clientDependency href="../../Analyses/OLIST_SELLERS_QD_0.1.ana#_4pbG8F6bEfGIxbSF4Pb83Q"/>
+  <taggedValue xmi:id="_5c95MV6aEfGIxbSF4Pb83Q" tag="Status" value="development"/>
+  <taggedValue xmi:id="_5c95Ml6aEfGIxbSF4Pb83Q" tag="Author" value="jheysonjavier.m6185@trial.d1cni6l1zcjagbv.us.qlikcloud.com"/>
+  <taggedValue xmi:id="_5c95M16aEfGIxbSF4Pb83Q" tag="Purpose"/>
+  <taggedValue xmi:id="_5c95NF6aEfGIxbSF4Pb83Q" tag="Description"/>
+  <taggedValue xmi:id="_5c95NV6aEfGIxbSF4Pb83Q" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_5c95Nl6aEfGIxbSF4Pb83Q" tag="OutputFolder" value="C:\GeniusLab"/>
+  <taggedValue xmi:id="_5c95N16aEfGIxbSF4Pb83Q" tag="REP_DBINFO_DBTYPE" value="HSQL"/>
+  <taggedValue xmi:id="_5c95OF6aEfGIxbSF4Pb83Q" tag="REP_DBINFO_DBVERSION" value=""/>
+  <taggedValue xmi:id="_5c95OV6aEfGIxbSF4Pb83Q" tag="REP_DBINFO_HOST" value=""/>
+  <taggedValue xmi:id="_5c95Ol6aEfGIxbSF4Pb83Q" tag="REP_DBINFO_PORT" value=""/>
+  <taggedValue xmi:id="_5c95O16aEfGIxbSF4Pb83Q" tag="REP_DBINFO_WAREHOUSE" value=""/>
+  <taggedValue xmi:id="_5c95PF6aEfGIxbSF4Pb83Q" tag="REP_DBINFO_DBNAME" value="talend_dq"/>
+  <taggedValue xmi:id="_5c95PV6aEfGIxbSF4Pb83Q" tag="REP_DBINFO_SCHEMA" value=""/>
+  <taggedValue xmi:id="_5c95Pl6aEfGIxbSF4Pb83Q" tag="REP_DBINFO_USER" value="sa"/>
+  <taggedValue xmi:id="_5c95P16aEfGIxbSF4Pb83Q" tag="REP_DBINFO_PASSWORD" value="enc:system.encryption.key.v1:dbI7aR9hMJTQ8ok38UISGc1gfrNmAjUIf24XLA=="/>
+  <taggedValue xmi:id="_5c95QF6aEfGIxbSF4Pb83Q" tag="REP_DBINFO_PARAMETER" value=""/>
+  <taggedValue xmi:id="_5c95QV6aEfGIxbSF4Pb83Q" tag="REP_DBINFO_URL" value="jdbc:hsqldb:file:/C:\Program Files (x86)\Talend-Studio\studio\workspace\TDQ_reporting_db\talend_dq"/>
+  <taggedValue xmi:id="_5c95Ql6aEfGIxbSF4Pb83Q" tag="REP_DBINFO_DRIVER" value="org.hsqldb.jdbcDriver"/>
+  <taggedValue xmi:id="_5c95Q16aEfGIxbSF4Pb83Q" tag="REP_DBINFO_DIALECT" value="org.hibernate.dialect.HSQLDialect"/>
+  <taggedValue xmi:id="_5c95RF6aEfGIxbSF4Pb83Q" tag="REP_PASSWORD_CONTEXT" value="false"/>
+  <taggedValue xmi:id="_5donkF6aEfGIxbSF4Pb83Q" tag="REP_GENERATE_FILE" value="true"/>
+  <taggedValue xmi:id="_5donkV6aEfGIxbSF4Pb83Q" tag="OutputType" value="pdf"/>
+  <taggedValue xmi:id="_eqHsUF6bEfGIxbSF4Pb83Q" tag="OutputFileName" value="Jheyson Javier Monje"/>
+  <taggedValue xmi:id="_eqHsUV6bEfGIxbSF4Pb83Q" tag="Single output" value="false"/>
+  <taggedValue xmi:id="_4ovxgV6bEfGIxbSF4Pb83Q" tag="REP_LAST_RUN_CONTEXT" value="Default"/>
+  <taggedValue xmi:id="_4ovxgl6bEfGIxbSF4Pb83Q" tag="REP_AUTHPASSWORD_CONTEXT" value="false"/>
+  <taggedValue xmi:id="_4ovxg16bEfGIxbSF4Pb83Q" tag="REP_CLIENTSECRET_CONTEXT" value="false"/>
+  <presentationParams xmi:id="_4bweYF6bEfGIxbSF4Pb83Q" type="TOP_MIDDLE_PRESENTATIONKEY">
+    <formula xmi:id="_4bweYV6bEfGIxbSF4Pb83Q">
+      <expression xsi:type="relational:TdExpression" xmi:id="_4bxFcF6bEfGIxbSF4Pb83Q" body="Page Number"/>
+    </formula>
+  </presentationParams>
+  <presentationParams xmi:id="_4bxFcV6bEfGIxbSF4Pb83Q" type="TOP_LEFT_PRESENTATIONKEY">
+    <formula xmi:id="_4bxFcl6bEfGIxbSF4Pb83Q">
+      <expression xsi:type="relational:TdExpression" xmi:id="_4bxFc16bEfGIxbSF4Pb83Q" body="Report Author"/>
+    </formula>
+  </presentationParams>
+  <presentationParams xmi:id="_4bxFdF6bEfGIxbSF4Pb83Q" type="TOP_RIGHT_PRESENTATIONKEY">
+    <formula xmi:id="_4bxFdV6bEfGIxbSF4Pb83Q">
+      <expression xsi:type="relational:TdExpression" xmi:id="_4bxFdl6bEfGIxbSF4Pb83Q" body="Creation Date"/>
+    </formula>
+  </presentationParams>
+  <analysisMap xmi:id="_Ik3scF6bEfGIxbSF4Pb83Q" mustRefresh="true" reportType="Basic">
+    <analysis href="../../Analyses/OLIST_CUSTOMERS_QD_0.1.ana#_zdWc8V6WEfGIxbSF4Pb83Q"/>
+  </analysisMap>
+  <analysisMap xmi:id="_Ik3scV6bEfGIxbSF4Pb83Q" mustRefresh="true" reportType="Basic">
+    <analysis href="../../Analyses/OLIST_GEOLACATION_QD_0.1.ana#_hYhwIF6XEfGIxbSF4Pb83Q"/>
+  </analysisMap>
+  <analysisMap xmi:id="_Ik3scl6bEfGIxbSF4Pb83Q" mustRefresh="true" reportType="Basic">
+    <analysis href="../../Analyses/OLIST_ORDERS_QA_0.1.ana#_4XwBwF6TEfGIxbSF4Pb83Q"/>
+  </analysisMap>
+  <analysisMap xmi:id="_Ik3sc16bEfGIxbSF4Pb83Q" mustRefresh="true" reportType="Basic">
+    <analysis href="../../Analyses/OLIST_ORDER_ITEMS_QD_0.1.ana#_F5hA0F6YEfGIxbSF4Pb83Q"/>
+  </analysisMap>
+  <analysisMap xmi:id="_Ik3sdF6bEfGIxbSF4Pb83Q" mustRefresh="true" reportType="Basic">
+    <analysis href="../../Analyses/OLIST_ORDER_PYMENTS_QD_0.1.ana#_sye1gV6YEfGIxbSF4Pb83Q"/>
+  </analysisMap>
+  <analysisMap xmi:id="_Ik3sdV6bEfGIxbSF4Pb83Q" mustRefresh="true" reportType="Basic">
+    <analysis href="../../Analyses/OLIST_ORDER_REVIEWS_QD_0.1.ana#_BuFFsV6ZEfGIxbSF4Pb83Q"/>
+  </analysisMap>
+  <analysisMap xmi:id="_Ik3sdl6bEfGIxbSF4Pb83Q" mustRefresh="true" reportType="Basic">
+    <analysis href="../../Analyses/OLIST_PRODUCTS_QD_0.1.ana#_WX9TwV6ZEfGIxbSF4Pb83Q"/>
+  </analysisMap>
+  <analysisMap xmi:id="_Ik3sd16bEfGIxbSF4Pb83Q" mustRefresh="true" reportType="Basic">
+    <analysis href="../../Analyses/OLIST_SELLERS_QD_0.1.ana#_1cPrMV6ZEfGIxbSF4Pb83Q"/>
+  </analysisMap>
+  <ExecInformations xmi:id="_4_nj8F6cEfGIxbSF4Pb83Q" executionDate="2026-06-02T10:58:26.067-0500" executionDuration="429724" executionNumber="1" lastRunOk="true" lastExecutionNumberOk="1"/>
+  <context xmi:id="_4ovxgF6bEfGIxbSF4Pb83Q" confirmationNeeded="false" hide="false" name="Default"/>
+</dataquality.reports:TdReport>

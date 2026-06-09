@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_j4kfkF-KEfGZ66d5XbXkYg" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_j4kfkV-KEfGZ66d5XbXkYg" comment="" name="ENV_NAME" prompt="ENV_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dev"/>
+  <contextParameter xmi:id="_j4kfkl-KEfGZ66d5XbXkYg" comment="" name="BASE_FILE_PATH" prompt="BASE_FILE_PATH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\GeniusLab\fuentes\"/>
+  <contextParameter xmi:id="_j4kfk1-KEfGZ66d5XbXkYg" comment="" name="DB_HOST" prompt="DB_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="209.50.254.159"/>
+  <contextParameter xmi:id="_j4kflF-KEfGZ66d5XbXkYg" comment="" name="DB_PORT" prompt="DB_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306"/>
+  <contextParameter xmi:id="_j4kflV-KEfGZ66d5XbXkYg" comment="" name="DB_NAME" prompt="DB_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DSADEV"/>
+  <contextParameter xmi:id="_j4kfll-KEfGZ66d5XbXkYg" comment="" name="DB_USER" prompt="DB_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="usr_acme"/>
+  <contextParameter xmi:id="_j4kfl1-KEfGZ66d5XbXkYg" comment="" name="DB_PASSWORD" prompt="DB_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="acme123"/>
+  <contextParameter xmi:id="_j4kfmF-KEfGZ66d5XbXkYg" comment="" name="PIPELINE_NAME" prompt="PIPELINE_NAME?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lab06_olist_pipeline"/>
+  <contextParameter xmi:id="_JDWUIF-LEfGZ66d5XbXkYg" comment="" name="run_id" prompt="run_id?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="timestamp"/>
+  <contextParameter xmi:id="_JDWUIV-LEfGZ66d5XbXkYg" comment="" name="batch_size" prompt="batch_size?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="5000"/>
+  <contextParameter xmi:id="_lvZLUGBbEfGTAdWH4biwoQ" comment="" name="FECHAINI" prompt="FECHAINI?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="2017-01-01 00:00:00"/>
+</talendfile:ContextType>

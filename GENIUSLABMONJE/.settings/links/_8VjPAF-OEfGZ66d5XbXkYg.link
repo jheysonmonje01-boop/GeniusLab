@@ -1,0 +1,41 @@
+{
+  "itemId" : "_8VjPAF-OEfGZ66d5XbXkYg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_j4GlgF-KEfGZ66d5XbXkYg",
+    "parameterList" : [ {
+      "id" : "_j4kfkV-KEfGZ66d5XbXkYg",
+      "name" : "ENV_NAME"
+    }, {
+      "id" : "_j4kfkl-KEfGZ66d5XbXkYg",
+      "name" : "BASE_FILE_PATH"
+    }, {
+      "id" : "_j4kfk1-KEfGZ66d5XbXkYg",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_j4kflF-KEfGZ66d5XbXkYg",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_j4kflV-KEfGZ66d5XbXkYg",
+      "name" : "DB_NAME"
+    }, {
+      "id" : "_j4kfll-KEfGZ66d5XbXkYg",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_j4kfl1-KEfGZ66d5XbXkYg",
+      "name" : "DB_PASSWORD"
+    }, {
+      "id" : "_j4kfmF-KEfGZ66d5XbXkYg",
+      "name" : "PIPELINE_NAME"
+    }, {
+      "id" : "_JDWUIF-LEfGZ66d5XbXkYg",
+      "name" : "run_id"
+    }, {
+      "id" : "_JDWUIV-LEfGZ66d5XbXkYg",
+      "name" : "batch_size"
+    }, {
+      "id" : "_lvZLUGBbEfGTAdWH4biwoQ",
+      "name" : "FECHAINI"
+    } ]
+  } ]
+}

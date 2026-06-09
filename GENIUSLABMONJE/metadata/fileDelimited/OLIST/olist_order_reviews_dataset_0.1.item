@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_28gocF63EfGIxbSF4Pb83Q" name="olist_order_reviews_dataset" dataPackage="_28gocV63EfGIxbSF4Pb83Q" Server="Localhost 127.0.0.1" FilePath="C:/GeniusLab/fuentes/olist_order_reviews_dataset.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" TextEnclosure="&quot;\&quot;&quot;" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_28gocV63EfGIxbSF4Pb83Q" name="default" dataManager="_28gocF63EfGIxbSF4Pb83Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_28gocl63EfGIxbSF4Pb83Q" id="_uUgQ0F63EfGIxbSF4Pb83Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_28goc163EfGIxbSF4Pb83Q" label="review_id" length="64" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_28godF63EfGIxbSF4Pb83Q" label="order_id" length="64" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_28godV63EfGIxbSF4Pb83Q" label="review_score" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_28godl63EfGIxbSF4Pb83Q" label="review_comment_title" length="64" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_28god163EfGIxbSF4Pb83Q" label="review_comment_message" length="512" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_28goeF63EfGIxbSF4Pb83Q" label="review_creation_date" length="32" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_28goeV63EfGIxbSF4Pb83Q" label="review_answer_timestamp" length="32" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,72 @@
+{
+  "itemId" : "_suVmYF-KEfGZ66d5XbXkYg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_-40pcF6QEfGIxbSF4Pb83Q",
+    "parameterList" : [ {
+      "id" : "_ZacRg2EDEfG0iJUPOlt6Mg",
+      "name" : "env"
+    }, {
+      "id" : "_rFHaIF6rEfGIxbSF4Pb83Q",
+      "name" : "olist_path"
+    }, {
+      "id" : "_ZacRgmEDEfG0iJUPOlt6Mg",
+      "name" : "rules_yaml_path"
+    }, {
+      "id" : "_ZacRgGEDEfG0iJUPOlt6Mg",
+      "name" : "run_ts"
+    }, {
+      "id" : "_rFHaI16rEfGIxbSF4Pb83Q",
+      "name" : "ss_db"
+    }, {
+      "id" : "_rFHaIV6rEfGIxbSF4Pb83Q",
+      "name" : "ss_host"
+    }, {
+      "id" : "_rFHaJV6rEfGIxbSF4Pb83Q",
+      "name" : "ss_password"
+    }, {
+      "id" : "_rFHaIl6rEfGIxbSF4Pb83Q",
+      "name" : "ss_port"
+    }, {
+      "id" : "_rFHaJF6rEfGIxbSF4Pb83Q",
+      "name" : "ss_user"
+    }, {
+      "id" : "_ZacRgWEDEfG0iJUPOlt6Mg",
+      "name" : "strict_mode"
+    } ]
+  }, {
+    "contextName" : "dev",
+    "repoId" : "_-40pcF6QEfGIxbSF4Pb83Q",
+    "parameterList" : [ {
+      "id" : "_aw6VO2EDEfG0iJUPOlt6Mg",
+      "name" : "env"
+    }, {
+      "id" : "_aw6VMWEDEfG0iJUPOlt6Mg",
+      "name" : "olist_path"
+    }, {
+      "id" : "_aw6VOmEDEfG0iJUPOlt6Mg",
+      "name" : "rules_yaml_path"
+    }, {
+      "id" : "_aw6VOGEDEfG0iJUPOlt6Mg",
+      "name" : "run_ts"
+    }, {
+      "id" : "_aw6VNGEDEfG0iJUPOlt6Mg",
+      "name" : "ss_db"
+    }, {
+      "id" : "_aw6VMmEDEfG0iJUPOlt6Mg",
+      "name" : "ss_host"
+    }, {
+      "id" : "_aw6VNmEDEfG0iJUPOlt6Mg",
+      "name" : "ss_password"
+    }, {
+      "id" : "_aw6VM2EDEfG0iJUPOlt6Mg",
+      "name" : "ss_port"
+    }, {
+      "id" : "_aw6VNWEDEfG0iJUPOlt6Mg",
+      "name" : "ss_user"
+    }, {
+      "id" : "_aw6VOWEDEfG0iJUPOlt6Mg",
+      "name" : "strict_mode"
+    } ]
+  } ]
+}

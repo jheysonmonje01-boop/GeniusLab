@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:dataquality.analysis="http://dataquality.analysis" xmlns:orgomg.cwm.objectmodel.core="http:///orgomg/cwm/objectmodel/core.ecore" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_aHKDAV6REfGIxbSF4Pb83Q" name="olist_customers_dataset.csv" supplierDependency="_Yq-KMF6XEfGIxbSF4Pb83Q" dataPackage="_aHKDAl6REfGIxbSF4Pb83Q" Server="Localhost 127.0.0.1" FilePath="C:/GeniusLab/fuentes/olist_customers_dataset.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" TextEnclosure="&quot;\&quot;&quot;" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_aHKDAl6REfGIxbSF4Pb83Q" name="default" dataManager="_aHKDAV6REfGIxbSF4Pb83Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_aHKDA16REfGIxbSF4Pb83Q" id="_HnC90F6REfGIxbSF4Pb83Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aHKDBF6REfGIxbSF4Pb83Q" id="customer_id" label="customer_id" length="40" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_Yq-KMV6XEfGIxbSF4Pb83Q" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aHKDBV6REfGIxbSF4Pb83Q" id="customer_unique_id" label="customer_unique_id" length="40" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_Yq-KQl6XEfGIxbSF4Pb83Q" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aHKDBl6REfGIxbSF4Pb83Q" id="customer_zip_code_prefix" label="customer_zip_code_prefix" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_Yq-KTV6XEfGIxbSF4Pb83Q" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aHKDB16REfGIxbSF4Pb83Q" id="customer_city" label="customer_city" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_Yq-KWF6XEfGIxbSF4Pb83Q" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aHKDCF6REfGIxbSF4Pb83Q" id="customer_state" label="customer_state" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_Yq-KY16XEfGIxbSF4Pb83Q" tag="Content Type" value="Nominal"/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+  <orgomg.cwm.objectmodel.core:Dependency xmi:id="_Yq-KMF6XEfGIxbSF4Pb83Q" kind="Usage" supplier="_aHKDAV6REfGIxbSF4Pb83Q">
+    <client xsi:type="dataquality.analysis:Analysis" href="../../../TDQ_Data Profiling/Analyses/OLIST_CUSTOMERS_QD_0.1.ana#_zdWc8V6WEfGIxbSF4Pb83Q"/>
+  </orgomg.cwm.objectmodel.core:Dependency>
+</xmi:XMI>

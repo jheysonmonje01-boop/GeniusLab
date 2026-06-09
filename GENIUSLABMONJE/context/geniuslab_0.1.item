@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_-5ILcF6QEfGIxbSF4Pb83Q" confirmationNeeded="false" hide="false" name="Default">
+    <contextParameter xmi:id="_rFHaIF6rEfGIxbSF4Pb83Q" comment="" name="olist_path" prompt="olist_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\GeniusLab\fuentes\"/>
+    <contextParameter xmi:id="_rFHaIV6rEfGIxbSF4Pb83Q" comment="" name="ss_host" prompt="ss_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="svc-3482219c-a389-4079-b18b-d50662524e8a-shared-dml.aws-virginia-6.svc.singlestore.com"/>
+    <contextParameter xmi:id="_rFHaIl6rEfGIxbSF4Pb83Q" comment="" name="ss_port" prompt="ss_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3333"/>
+    <contextParameter xmi:id="_rFHaI16rEfGIxbSF4Pb83Q" comment="" name="ss_db" prompt="ss_db?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="db_jheyson_89060"/>
+    <contextParameter xmi:id="_rFHaJF6rEfGIxbSF4Pb83Q" comment="" name="ss_user" prompt="ss_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="jheyson_monje"/>
+    <contextParameter xmi:id="_rFHaJV6rEfGIxbSF4Pb83Q" comment="" name="ss_password" prompt="ss_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:VfBAI1702oo6kxsnlQXXFVyvXf4tKCSjkLTuuxWTdzGjVqb6TuKeZPZW/KzlGA8cFzdM3AFG"/>
+    <contextParameter xmi:id="_rFHaJl6rEfGIxbSF4Pb83Q" comment="" name="run_id" prompt="run_id?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_ZacRgGEDEfG0iJUPOlt6Mg" comment="" name="run_ts" prompt="run_ts?" promptNeeded="false" repositoryContextId="built-in" type="id_Date" value="2026-01-01 00:00:00"/>
+    <contextParameter xmi:id="_ZacRgWEDEfG0iJUPOlt6Mg" comment="" name="strict_mode" prompt="strict_mode?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="false"/>
+    <contextParameter xmi:id="_ZacRgmEDEfG0iJUPOlt6Mg" comment="" name="rules_yaml_path" prompt="rules_yaml_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/GeniusLab/fuentes/reglas_candidatas.yaml"/>
+    <contextParameter xmi:id="_ZacRg2EDEfG0iJUPOlt6Mg" comment="" name="env" prompt="env?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="default"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_aw6VMGEDEfG0iJUPOlt6Mg" confirmationNeeded="false" hide="false" name="dev">
+    <contextParameter xmi:id="_aw6VMWEDEfG0iJUPOlt6Mg" comment="" name="olist_path" prompt="olist_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\GeniusLab\fuentes\"/>
+    <contextParameter xmi:id="_aw6VMmEDEfG0iJUPOlt6Mg" comment="" name="ss_host" prompt="ss_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="svc-3482219c-a389-4079-b18b-d50662524e8a-shared-dml.aws-virginia-6.svc.singlestore.com"/>
+    <contextParameter xmi:id="_aw6VM2EDEfG0iJUPOlt6Mg" comment="" name="ss_port" prompt="ss_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3333"/>
+    <contextParameter xmi:id="_aw6VNGEDEfG0iJUPOlt6Mg" comment="" name="ss_db" prompt="ss_db?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="db_jheyson_89060"/>
+    <contextParameter xmi:id="_aw6VNWEDEfG0iJUPOlt6Mg" comment="" name="ss_user" prompt="ss_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="jheyson_monje"/>
+    <contextParameter xmi:id="_aw6VNmEDEfG0iJUPOlt6Mg" comment="" name="ss_password" prompt="ss_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:BBP86TC/5E5wfUmyADfVU3D2HogWjHl8ol8LHoOufXrFqB+S1dYtHOLGlsfJApkA8rXMZJIj"/>
+    <contextParameter xmi:id="_aw6VN2EDEfG0iJUPOlt6Mg" comment="" name="run_id" prompt="run_id?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_aw6VOGEDEfG0iJUPOlt6Mg" comment="" name="run_ts" prompt="run_ts?" promptNeeded="false" repositoryContextId="built-in" type="id_Date" value="2026-01-01 00:00:00"/>
+    <contextParameter xmi:id="_aw6VOWEDEfG0iJUPOlt6Mg" comment="" name="strict_mode" prompt="strict_mode?" promptNeeded="false" repositoryContextId="built-in" type="id_Boolean" value="false"/>
+    <contextParameter xmi:id="_aw6VOmEDEfG0iJUPOlt6Mg" comment="" name="rules_yaml_path" prompt="rules_yaml_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/GeniusLab/fuentes/reglas_candidatas.yaml"/>
+    <contextParameter xmi:id="_aw6VO2EDEfG0iJUPOlt6Mg" comment="" name="env" prompt="env?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DEV"/>
+  </talendfile:ContextType>
+</xmi:XMI>
