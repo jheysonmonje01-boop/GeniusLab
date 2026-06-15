@@ -2,11 +2,11 @@
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMapper="http://www.talend.org/mapper" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" hide="false" name="dev">
     <contextParameter comment="" name="olist_path" prompt="olist_path?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="C:\GeniusLab\fuentes\" internalId="_MnUUsGH9EfG0iJUPOlt6Mg"/>
-    <contextParameter comment="" name="ss_host" prompt="ss_host?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="svc-3482219c-a389-4079-b18b-d50662524e8a-shared-dml.aws-virginia-6.svc.singlestore.com" internalId="_MnUUsWH9EfG0iJUPOlt6Mg"/>
-    <contextParameter comment="" name="ss_port" prompt="ss_port?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="3333" internalId="_MnUUsmH9EfG0iJUPOlt6Mg"/>
-    <contextParameter comment="" name="ss_db" prompt="ss_db?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="db_jheyson_89060" internalId="_MnUUs2H9EfG0iJUPOlt6Mg"/>
-    <contextParameter comment="" name="ss_user" prompt="ss_user?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="jheyson_monje" internalId="_MnUUtGH9EfG0iJUPOlt6Mg"/>
-    <contextParameter comment="" name="ss_password" prompt="ss_password?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_Password" value="enc:system.encryption.key.v1:WfoFV8WpVxAkbZZ/Am5WV4ht6GvQqvHvwphUzQqvI7SmP4M3trHh2lSCWBaR+QFEkMi6/+zR" internalId="_MnUUtWH9EfG0iJUPOlt6Mg"/>
+    <contextParameter comment="" name="ss_host" prompt="ss_host?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="209.50.254.159" internalId="_MnUUsWH9EfG0iJUPOlt6Mg"/>
+    <contextParameter comment="" name="ss_port" prompt="ss_port?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="3306" internalId="_MnUUsmH9EfG0iJUPOlt6Mg"/>
+    <contextParameter comment="" name="ss_db" prompt="ss_db?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="DSADEV" internalId="_MnUUs2H9EfG0iJUPOlt6Mg"/>
+    <contextParameter comment="" name="ss_user" prompt="ss_user?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="usr_acme" internalId="_MnUUtGH9EfG0iJUPOlt6Mg"/>
+    <contextParameter comment="" name="ss_password" prompt="ss_password?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_Password" value="enc:system.encryption.key.v1:s/cWE930Sf0H06SqmmPXWZxTM/C5mTqHRfmpMWz7xDURMRk=" internalId="_MnUUtWH9EfG0iJUPOlt6Mg"/>
     <contextParameter comment="" name="run_id" prompt="run_id?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="" internalId="_MnUUtmH9EfG0iJUPOlt6Mg"/>
     <contextParameter comment="" name="run_ts" prompt="run_ts?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_Date" value="2026-01-01 00:00:00" internalId="_MnUUt2H9EfG0iJUPOlt6Mg"/>
     <contextParameter comment="" name="strict_mode" prompt="strict_mode?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_Boolean" value="false" internalId="_MnUUuGH9EfG0iJUPOlt6Mg"/>
@@ -15,11 +15,11 @@
   </context>
   <context confirmationNeeded="false" hide="false" name="Default">
     <contextParameter comment="" name="olist_path" prompt="olist_path?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="C:\GeniusLab\fuentes\" internalId="_MnUUu2H9EfG0iJUPOlt6Mg"/>
-    <contextParameter comment="" name="ss_host" prompt="ss_host?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="svc-3482219c-a389-4079-b18b-d50662524e8a-shared-dml.aws-virginia-6.svc.singlestore.com" internalId="_MnUUvGH9EfG0iJUPOlt6Mg"/>
-    <contextParameter comment="" name="ss_port" prompt="ss_port?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="3333" internalId="_MnUUvWH9EfG0iJUPOlt6Mg"/>
-    <contextParameter comment="" name="ss_db" prompt="ss_db?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="db_jheyson_89060" internalId="_MnUUvmH9EfG0iJUPOlt6Mg"/>
-    <contextParameter comment="" name="ss_user" prompt="ss_user?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="jheyson_monje" internalId="_MnUUv2H9EfG0iJUPOlt6Mg"/>
-    <contextParameter comment="" name="ss_password" prompt="ss_password?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_Password" value="enc:system.encryption.key.v1:HEEkGUKAGCB30jZR9GL2enemE4+5BmuKtoIzX35wCOdMrL+YSddHnyqNs5Kzcacovms5num5" internalId="_MnUUwGH9EfG0iJUPOlt6Mg"/>
+    <contextParameter comment="" name="ss_host" prompt="ss_host?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="209.50.254.159" internalId="_MnUUvGH9EfG0iJUPOlt6Mg"/>
+    <contextParameter comment="" name="ss_port" prompt="ss_port?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="3306" internalId="_MnUUvWH9EfG0iJUPOlt6Mg"/>
+    <contextParameter comment="" name="ss_db" prompt="ss_db?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="DSADEV" internalId="_MnUUvmH9EfG0iJUPOlt6Mg"/>
+    <contextParameter comment="" name="ss_user" prompt="ss_user?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="usr_acme" internalId="_MnUUv2H9EfG0iJUPOlt6Mg"/>
+    <contextParameter comment="" name="ss_password" prompt="ss_password?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_Password" value="enc:system.encryption.key.v1:CvRilXiJbQjSEfEomxr61HY3lXZlCryzRSnrZ/B9Z2r55UY=" internalId="_MnUUwGH9EfG0iJUPOlt6Mg"/>
     <contextParameter comment="" name="run_id" prompt="run_id?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_String" value="" internalId="_MnUUwWH9EfG0iJUPOlt6Mg"/>
     <contextParameter comment="" name="run_ts" prompt="run_ts?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_Date" value="2026-01-01 00:00:00" internalId="_MnUUwmH9EfG0iJUPOlt6Mg"/>
     <contextParameter comment="" name="strict_mode" prompt="strict_mode?" promptNeeded="false" repositoryContextId="_-40pcF6QEfGIxbSF4Pb83Q" type="id_Boolean" value="false" internalId="_MnUUw2H9EfG0iJUPOlt6Mg"/>
@@ -146,6 +146,7 @@
     <elementParameter field="CHECK" name="SPECIFY_DATASOURCE_ALIAS" value="false"/>
     <elementParameter field="TEXT" name="DATASOURCE_ALIAS" value="&quot;&quot;" show="false"/>
     <elementParameter field="CHECK" name="AUTO_COMMIT" value="false"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
   </node>
   <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="240" posY="120">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tJava_1" show="false"/>
@@ -163,11 +164,13 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tDBCommit_1" show="false"/>
     <elementParameter field="COMPONENT_LIST" name="CONNECTION" value="tDBConnection_1"/>
     <elementParameter field="CHECK" name="CLOSE" value="true"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tDBCommit_1"/>
   </node>
   <node componentName="tMysqlClose" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="400" posY="440">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tDBClose_1" show="false"/>
     <elementParameter field="COMPONENT_LIST" name="CONNECTION" value="tDBConnection_1"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
   </node>
   <node componentName="tMysqlInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="80" posY="280">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tDBInput_1" show="false"/>
@@ -216,6 +219,7 @@
       <elementValue elementRef="TRIM" value="false" id="17"/>
     </elementParameter>
     <elementParameter field="TEXT" name="LABEL" value="tDBInput_RULES_EVALUATED"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tDBInput_1">
       <column comment="" key="false" length="-1" name="run_id" nullable="true" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" originalLength="-1" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="run_ts" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="-1" sourceType="DATETIME" type="id_Date" originalLength="-1" usefulColumn="true"/>
@@ -412,7 +416,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="row2" show="false"/>
   </connection>
   <subjob>
-    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true" show="false"/>
+    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tPrejob_1" show="false"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="93;174;241"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="93;174;241"/>
@@ -428,7 +432,7 @@
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="93;174;241"/>
   </subjob>
   <subjob>
-    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true" show="false"/>
+    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tPostjob_1" show="false"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="93;174;241"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="93;174;241"/>
